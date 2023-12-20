@@ -6,7 +6,7 @@ Fullstack Software Developer
 
 I started writing my first lines of code in 2019, since then I've become more fascinated and passionate about the universe of programming and technology every day, so every day I learn new things about programming whether through videos, books or documentation.
 
-*   🌍  I live in Recife, Pernambuco, Brazil.
+*   🌍  I am from Brazil 🇧🇷
 *   ✉️  You can contact me at nilondutra@me.com.
 *   🧠  I'm learning more about Javascript, Typescript, React and Node.js.
 *   🤝  I'm open to collaborating on projects for startups, medium and large companies.
