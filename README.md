@@ -40,4 +40,4 @@ I started writing my first lines of code in 2019, since then I've become more fa
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiltonDutra&theme=highcontrast)](https://github.com/NiltonDutra/github-readme-stats)
 
-[link]starchart.cc/{NiltonDutra/{repo}.svg
+
