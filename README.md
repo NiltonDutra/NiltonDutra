@@ -35,6 +35,6 @@ I started writing my first lines of code in 2019, since then I've become more fa
 
 <b>My GitHub Stats</b>
 
-![NiltonDutra's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NiltonDutra&show_icons=true&theme=dracula)
+![NiltonDutra's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NiltonDutra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiltonDutra&theme=dracula)](https://github.com/NiltonDutra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiltonDutra&theme=radical)](https://github.com/NiltonDutra/github-readme-stats)
