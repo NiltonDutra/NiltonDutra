@@ -30,6 +30,7 @@ I started writing my first lines of code in 2019, since then I've become more fa
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/NiltonDutra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nilton-dutra-88a0bb66/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 
 ### Badges
 
