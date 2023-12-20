@@ -1,16 +1,16 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Nilton Dutra!
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nilton Dutra!
 ================================================================================================================================
 
 Desenvolvedor de Software Fullstack
 -----------------------------------
 
-Comecei a escrever minhas primeiras linhas de código no ano de 2019, de lá pra cá estou a cada dia mais fascinado e apaixonado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação seja através de vídeos, livros ou documentação.
+I started writing my first lines of code in 2019, since then I've become more fascinated and passionate about the universe of programming and technology every day, so every day I learn new things about programming whether through videos, books or documentation.
 
-*   🌍  Eu moro em Recife, Pernambuco, Brasil.
-*   ✉️  Você pode me contactar em nilondutra@me.com.
-*   🧠  Estou aprendendo mais sobre Javascript, Typescript, React e Node.js.
-*   🤝  Estou aberto para colaborar em projetos de startups, médias e grandes empresas.
-*   ⚡  Gosto de café como todo programador e além disso gosto de fazer esportes em geral.
+*   🌍  I live in Recife, Pernambuco, Brazil.
+*   ✉️  You can contact me at nilondutra@me.com.
+*   🧠  I'm learning more about Javascript, Typescript, React and Node.js.
+*   🤝  I'm open to collaborating on projects for startups, medium and large companies.
+*   🚀  I like coffee, like every programmer and I also like doing sports in general.
 
 ### Skills 
 
