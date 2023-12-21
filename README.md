@@ -1,7 +1,9 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nilton Dutra!
+##
 ================================================================================================================================
 
 Fullstack Software Developer
+##
 -----------------------------------
 
 I started writing my first lines of code in 2019, since then I've become more fascinated and passionate about the universe of programming and technology every day, so every day I learn new things about programming whether through videos, books or documentation.
@@ -12,7 +14,8 @@ I started writing my first lines of code in 2019, since then I've become more fa
 *   🤝  I'm open to collaborating on projects for startups, medium and large companies.
 *   🚀  I like coffee, like every programmer and I also like doing sports in general.
 
-### Skills 
+### Skills
+##
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> 
@@ -28,11 +31,13 @@ I started writing my first lines of code in 2019, since then I've become more fa
 </p>
                     
 ### Socials
+##
 
 <p align="left"> <a href="https://www.github.com/NiltonDutra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nilton-dutra-88a0bb66/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 
 ### Badges
+##
 
 <b>My GitHub Stats</b>
 
