@@ -12,7 +12,7 @@ Planning 🔁 Development 🔁 Testing
 
 *   🌍  I am from Brazil 🇧🇷
 *   ✉️  You can contact me at nilondutra@me.com.
-*   🧠  I'm learning more about Javascript, React and Node.js. 🚀
+*   🧠  I'm learning more about Javascript, Python, React and Node.js. 🚀
 *   🤝  I'm open to collaborating on projects for startups, medium and large companies.
 *   ⚡️  I like coffee, like every programmer and I also like doing sports in general.
 
