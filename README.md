@@ -1,4 +1,4 @@
-Hello! My name is Nilton! ⚡️
+Hello! My name is Nilton!
 ================================================================================================================================
 
 Software Engineer Jr
@@ -6,7 +6,7 @@ Software Engineer Jr
 
 I started writing my first lines of code in 2020, since then I've become more fascinated and passionate about the universe of programming and technology every day, so every day I learn new things about programming whether through videos, books or documentation.
 
-I look for work in short development cycles, based on the Agile method. This keeps expectations clear and focused on the task at hand.
+I look for work in short development cycles, based on the Agile method. This keeps expectations clear and focused on the task at hand. ⚡️
 
 Planning 🔁 Development 🔁 Testing
 
