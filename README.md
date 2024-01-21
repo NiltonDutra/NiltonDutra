@@ -48,6 +48,6 @@ Planning 🔁 Development 🔁 Testing
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiltonDutra&theme=highcontrast)](https://github.com/NiltonDutra/github-readme-stats)
 
-![110340907297](https://github.com/NiltonDutra/NiltonDutra/assets/67064216/334219b9-05a1-4952-8295-860615cdc54f)
+
 
 
