@@ -47,5 +47,6 @@ Planning 🔁 Development 🔁 Testing
 ![NiltonDutra's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NiltonDutra&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiltonDutra&theme=highcontrast)](https://github.com/NiltonDutra/github-readme-stats)
+![761c3477-201c-45f0-a0d5-614459925732](https://github.com/NiltonDutra/NiltonDutra/assets/67064216/89429361-fdf7-4e7a-aba7-57bbcab8aaf8)
 
 
