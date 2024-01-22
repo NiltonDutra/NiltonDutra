@@ -1,4 +1,5 @@
-Hello! My name is Nilton! 
+Hello! My name is Nilton!                                             ![logoND](https://github.com/NiltonDutra/NiltonDutra/assets/67064216/382dafde-0058-43fd-88e2-7a0c775287dd)
+
 
 ================================================================================================================================
 
@@ -50,7 +51,7 @@ Planning 🔁 Development 🔁 Testing
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiltonDutra&theme=highcontrast)](https://github.com/NiltonDutra/github-readme-stats)
 
 
-![logoND](https://github.com/NiltonDutra/NiltonDutra/assets/67064216/4239e555-cbe5-4c66-bae8-3557b61aafbc)
+
 
 
 
