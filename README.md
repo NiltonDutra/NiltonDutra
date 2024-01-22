@@ -1,8 +1,8 @@
 ![logoND](https://github.com/NiltonDutra/NiltonDutra/assets/67064216/d50b87bc-6ddc-4767-afb7-06fb0b4b756b)
-===================================
+-----------------------------------
 
 Hello! My name is Nilton!                                      
-===================================
+-----------------------------------
 
 Software Engineer Jr
 -----------------------------------
@@ -20,6 +20,7 @@ Planning 🔁 Development 🔁 Testing
 *   ⚡️  I like coffee, like every programmer and I also like doing sports in general.
 
 ### Skills
+-----------------------------------
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> 
@@ -38,12 +39,14 @@ Planning 🔁 Development 🔁 Testing
 
                     
 ### Socials
+-----------------------------------
 
 <p align="left"> <a href="https://www.github.com/NiltonDutra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nilton-dutra-88a0bb66/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
 
 ### Badges
+-----------------------------------
 
 <b>My GitHub Stats</b>
 
