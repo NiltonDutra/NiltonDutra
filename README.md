@@ -40,11 +40,11 @@ Planning 🔁 Development 🔁 Testing
 
 
 
+<div align="center">  
+
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<div align="center">  
   
 ![NiltonDutra's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NiltonDutra&show_icons=true&theme=highcontrast)    <br>  <br>   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiltonDutra&theme=highcontrast)](https://github.com/NiltonDutra/github-readme-stats)
 
